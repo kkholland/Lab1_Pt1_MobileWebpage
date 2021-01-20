@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Universal Styles */
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F9FAFC;
+    padding: 10px 20px;
+}
+
+a:link{
+    text-decoration: none;
+    color: #69696A;
+}
+
+a:visited{
+    color: #69696A;
+}
+
+a:hover{
+    font-weight: 600;
+}
+
+a:active{
+    color: #000;
+}
+
+button{
+    width: 100%;
+    background-color: #000;
+    color: #FFF;
+    border: none;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+h1{
+    font-weight: 600;
+}
+
+
+/* Header */
+header{
+    margin: 10px 0;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    margin: 10px 0;
+}
+
+/* Main Section */
+main{
+    margin-top: 40px;
+}
+
+main p {
+    padding-left: 15px;
+    border-left: 3px solid #69696A;
+    color: #69696A;
+    margin: 20px 0;
+}
+
+main button{
+    margin-top: 10px;
+}
+
+
+/* Desktop Styles */
+    /* Header */
+
+
+    /* Main */
