@@ -38,13 +38,12 @@ button{
     font-family: 'Open Sans', sans-serif;
 }
 
-
 h1{
     font-weight: 600;
 }
 
 
-/* Header */
+/* Header & Nav */
 header{
     margin: 10px 0;
 }
@@ -57,11 +56,13 @@ nav li{
     margin: 10px 0;
 }
 
+
 /* Main Section */
 main{
     margin-top: 40px;
 }
 
+/*Adding bar to left of text box and text gray*/
 main p {
     padding-left: 15px;
     border-left: 3px solid #69696A;
@@ -72,10 +73,3 @@ main p {
 main button{
     margin-top: 10px;
 }
-
-
-/* Desktop Styles */
-    /* Header */
-
-
-    /* Main */
